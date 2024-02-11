@@ -49,7 +49,7 @@ Here are some of the projects I've worked on at university
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/JanoALockhart/tdp-proyecto-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JanoALockhart&repo=tdp-proyecto-3)](https://github.com/JanoALockhart/tdp-proyecto-3"></a>
+            <a href="https://github.com/JanoALockhart/tdp-proyecto-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JanoALockhart&repo=tdp-proyecto-3"></a>
         </td>
         <td>
             <a href="https://github.com/JanoALockhart/tdp-proyecto-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JanoALockhart&repo=tdp-proyecto-2"></a>
