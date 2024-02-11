@@ -1,4 +1,4 @@
-## Hi, I'm Jano ##
+## Hi, I'm Jano :wave: ##
 I'm Jano Axel Lockhart. Student in Information Systems Engineering at <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>, Argentina.
 I'm pasionate about learning new topics and helping others by sharing them.
 
