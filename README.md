@@ -1,8 +1,13 @@
 ## Hi, I'm Jano ##
-I'm Jano Axel Lockhart. Student in Information Systems Engineering at Universidad Nacional del Sur, Argentina.
+I'm Jano Axel Lockhart. Student in Information Systems Engineering at <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>, Argentina.
 I'm pasionate about learning new topics and helping others by sharing them.
 
+### Contact
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janolockhart/)
+[![Gmail](https://img.shields.io/badge/Gmail-F32413?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janolockhart@gmail.com)
+
+
 
 ### Languages and Tools ###
 
