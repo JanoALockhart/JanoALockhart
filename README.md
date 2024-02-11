@@ -20,7 +20,7 @@ I'm pasionate about learning new topics and helping others by sharing them.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanoALockhart&layout=compact)
 
 ### Projects ###
-Here are some of the projects I've worked on at university
+These are some of the projects I've worked on at university
 
 <table>
     <tr>
