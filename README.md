@@ -36,7 +36,7 @@ These are some of the projects I've worked on at university
             <a href="https://github.com/JanoALockhart/ProyectoPSSObraSocial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JanoALockhart&repo=ProyectoPSSObraSocial"></a>
         </td>
         <td>
-            <a href="https://github.com/elagarrigue/AyDS23-Winchester3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elagarrigue&repo=AyDS23-Winchester3"></a>
+            <a href="https://github.com/JanoALockhart/Proyecto-AyDS23"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JanoALockhart&repo=Proyecto-AyDS23"></a>
         </td>
     </tr>
     <tr>
