@@ -17,5 +17,5 @@ I'm pasionate about learning new topics and helping others by sharing them.
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanoALockhart&layout=compact)
+[![stats](https://github-readme-stats.vercel.app/api?username=JanoALockhart)](https://github.com/anuraghazra/github-readme-stats)
 
