@@ -1,15 +1,15 @@
-## Hi, I'm Jano :wave: ##
+# Hi, I'm Jano :wave: ##
 I'm Jano Axel Lockhart, software engineer graduated from <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>, Argentina.
 I'm passionate about learning new topics and helping others by sharing them.
 
-### Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janolockhart/)
 [![Gmail](https://img.shields.io/badge/Gmail-F32413?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janolockhart@gmail.com)
 
 
 
-### Languages and Tools ###
+## Languages and Tools ###
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
