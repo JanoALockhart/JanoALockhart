@@ -2,6 +2,12 @@
 I'm Jano Axel Lockhart, software engineer graduated from <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>, Argentina.
 I'm passionate about learning new topics and helping others by sharing them.
 
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janolockhart/)
+[![Gmail](https://img.shields.io/badge/Gmail-F32413?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janolockhart@gmail.com)
+
+
 ## Projects
 ### CaligrafIA
 The education system often assigns the same activity to every student. It would be exhausting and time consuming for teachers to personalize practice for each one. This project addresses that limitation in calligraphy activities by analyzing a student's worksheet and generating a new one based on their specific difficulties.<br>
@@ -14,10 +20,6 @@ Training code: https://github.com/JanoALockhart/CaligrafIA
 
 
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janolockhart/)
-[![Gmail](https://img.shields.io/badge/Gmail-F32413?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janolockhart@gmail.com)
 
 
 
