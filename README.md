@@ -1,6 +1,6 @@
 ## Hi, I'm Jano :wave: ##
-I'm Jano Axel Lockhart. Student in Software Engineering at <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>, Argentina.
-I'm pasionate about learning new topics and helping others by sharing them.
+I'm Jano Axel Lockhart, software engineer graduated from <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>, Argentina.
+I'm passionate about learning new topics and helping others by sharing them.
 
 ### Contact
 
