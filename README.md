@@ -1,4 +1,4 @@
-# Hi, I'm Jano :wave: ##
+# Hi, I'm Jano :wave:
 I'm Jano Axel Lockhart, software engineer graduated from <a href="https://uns.edu.ar/">Universidad Nacional del Sur (UNS)</a>, Argentina.
 I'm passionate about learning new topics and helping others by sharing them.
 
@@ -14,16 +14,11 @@ The education system often assigns the same activity to every student. It would 
 
 A recurrent-convolutional neural network (RCNN) was trained to recognize handwritten rows of individual letters using Python and TensorFlow. Using the trained model and computer vision techniques, a web prototype was built to analyze a student's worksheet.<br>
 
-Web Prototype: https://appcaligrafia.onrender.com/ 
-<br>
+Web Prototype: https://appcaligrafia.onrender.com/ <br>
 Training code: https://github.com/JanoALockhart/CaligrafIA
 
 
-
-
-
-
-## Languages and Tools ###
+## Languages and Tools
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
